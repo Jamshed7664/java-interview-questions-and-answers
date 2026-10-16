@@ -3715,13 +3715,6 @@ System.out.println(cache.keySet());
 
 Found a mistake, a newer best practice, or a better explanation? Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md). Keep explanations beginner-friendly and test new Java snippets before submitting a pull request.
 
-## GitHub repository setup
-
-**Suggested name:** `java-interview-questions-and-answers`
-
-**Description:** `Top 100 Java Interview Questions and Answers (2026) | Core Java, OOP, Collections, Streams, Multithreading, JVM & Coding Problems with Easy Explanations.`
-
-**Suggested topics:** `java` · `java-interview-questions` · `core-java` · `java-programming` · `java21` · `java25` · `object-oriented-programming` · `java-collections` · `java-streams` · `multithreading` · `dsa` · `coding-interview` · `interview-preparation`
 
 ---
 
